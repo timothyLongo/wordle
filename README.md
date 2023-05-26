@@ -9,8 +9,4 @@ How to play:
 
 3 - Save changes
 
-4 - Run executable file under x64\Debug\WORDLE.exe
-
-BEWARE - The dictionary has a mind of its own
-
-It has just as much fun conuring up gobbledygook as it does speaking english
+4 - Run executable under x64\Debug\WORDLE.exe
