@@ -1,4 +1,4 @@
-# wordle
+# Wordle
 Wordle in C++ (windows command prompt word game)
 
 How to play:
